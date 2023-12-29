@@ -12,4 +12,11 @@
 - 🌐 Leverages Firebase and Google Ad services for enhanced revenue.
 - 📈 Achieves measurable increases in user engagement and app efficiency.
 
+🔒 **Note:**
+  - Most of my work? It's in secret repositories. Clients love mystery!
+
+🙏 **Thank You!**
+  - Need help? Got a project? Let's chat!
+
+
 
