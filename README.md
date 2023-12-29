@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi I'm Mukhtar Ahmed 👋
 
-<!--
-**mukhtar-ahmed/mukhtar-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Results-Driven Software Engineer
+🎓 Bachelor's in Computer Science with a stellar 3.74 CGPA.
+💻 Proficient in C++, Java, Python, JavaScript, SQL, and Dart.
+📱 Specializes in Flutter for mobile app development.
+🌐 Expertise in designing, implementing, and integrating REST APIs.
+🚀 Published successful apps on App Store & Play Store.
+🌟 Strong foundation in UI/UX design, MVC architecture, and teamwork.
+🛠️ Proficient in state management with GetX and Provider.
+🌐 Leverages Firebase and Google Ad services for enhanced revenue.
+📈 Achieves measurable increases in user engagement and app efficiency.
